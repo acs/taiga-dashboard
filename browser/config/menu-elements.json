@@ -1,0 +1,17 @@
+{
+    "menu":{
+	"scm": [
+            "contributors",
+            "domains",
+            "repos"
+	],
+	"its": [
+            "contributors",
+            "domains",
+            "repos",
+            "states"
+	],
+	"extra": []
+    },
+    "releases":[]
+}
